@@ -1,0 +1,1 @@
+Sitemap: git@github.com:YavaVilar/my_blog/sitemap.xml
