@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "my_blog"
+  navbar:
+      right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    highlight-style: a11y
+
+editor: visual
+
